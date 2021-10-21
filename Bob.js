@@ -1,0 +1,12 @@
+class Bob {
+    constructor () {
+        
+
+
+
+    }
+
+  display () {
+
+    }
+}
